@@ -1,0 +1,7 @@
+__cinf_Ljava_2Flang_2FString_3B
+__cinf_LInter_3B
+__cinf_LBase_3B
+__cinf_Ljava_2Flang_2FObject_3B
+__cinf_LInterfaceTest_3B
+__cinf_LDerived_3B
+__cinf_Ljava_2Flang_2FSystem_3B
